@@ -1,0 +1,1 @@
+extract all zip files to the current folder
