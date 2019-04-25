@@ -1,4 +1,6 @@
-## PIV dataset for neural network training
+# PIV dataset for neural network training
+
+## License and citation
 
 The dataset in this repository is used to train a neural network performing **dense** particle image velocimetry. It is provided for research purposes only. All rights reserved for any commercial use. If you use this dataset, please cite the following paper:
 
@@ -61,7 +63,7 @@ The descriptions of the motion fields for PIV neural network training are presen
 <div align=center><img width="450" src="https://github.com/shengzesnail/PIV_dataset/raw/master/demos/dataset.PNG"/></div>
 
 
-**Here are some samples of flow motion we used in the PIV dataset: **
+**Here are some samples of flow motion we used in the PIV dataset:** 
 <div align=center><img width="600" src="https://github.com/shengzesnail/PIV_dataset/raw/master/demos/CFD_motions.PNG"/></div>
 
 
