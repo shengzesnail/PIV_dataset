@@ -37,7 +37,7 @@ A train-validation split is also provided:
 
 The intensity for each particle of the synthetic images is satisfied to a Gaussian function:
 
-<div align=center><img width="250" src="https://github.com/shengzesnail/PIV_dataset/raw/master/demos/Gaussian_fun.PNG"/></div>
+<div align=left><img width="250" src="https://github.com/shengzesnail/PIV_dataset/raw/master/demos/Gaussian_fun.PNG"/></div>  
 where $I_{0}$ is the peak intensity in the Gaussian center, $d_p$ denotes the particle diameter and $(x_0,y_0)$ the position of the particle. Let $\rho$ be the particle seeding density of the image. Each parameter is randomly selected in a proper range:
 
 
@@ -52,7 +52,7 @@ where $I_{0}$ is the peak intensity in the Gaussian center, $d_p$ denotes the pa
 **Here are some images with different parameters：**
 **a)** seeding density $\rho$ = 0.078 ppp, particle diameter $d_p$ = 1.31 pixel, **b)** $\rho$ = 0.051 ppp, $d_p$ = 3.68 pixel, **c)** $\rho$ = 0.069 ppp, $d_p$ = 2.81 pixel.
 
-<div align=center><img width="500" src="https://github.com/shengzesnail/PIV_dataset/raw/master/demos/particle_images.PNG"/></div>
+<div align=left><img width="500" src="https://github.com/shengzesnail/PIV_dataset/raw/master/demos/particle_images.PNG"/></div>
 
 
 
@@ -62,11 +62,12 @@ The dataset includes a variety of flow motions to increase the data diversity. S
 
 The descriptions of the motion fields for PIV neural network training are presented below:
 
-<div align=center><img width="450" src="https://github.com/shengzesnail/PIV_dataset/raw/master/demos/dataset.PNG"/></div>  
+<div align=left><img width="450" src="https://github.com/shengzesnail/PIV_dataset/raw/master/demos/dataset.PNG"/></div>  
 
+<br> 
 
 **Here are some samples of flow motion we used in the PIV dataset:** 
-<div align=center><img width="600" src="https://github.com/shengzesnail/PIV_dataset/raw/master/demos/CFD_motions.PNG"/></div>
+<div align=left><img width="600" src="https://github.com/shengzesnail/PIV_dataset/raw/master/demos/CFD_motions.PNG"/></div>
 
 
 ## Others
