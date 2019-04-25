@@ -23,9 +23,9 @@ The dataset in this repository is used to train a neural network performing **de
 
 Each data item contains a particle image pair (input for CNN) and the corresponding ground-truth motion field (output). For example:
 
-		\PIV-genImages\data\uniform\uniform_00001_img1.tif
-		\PIV-genImages\data\uniform\uniform_00001_img2.tif
-		\PIV-genImages\data\uniform\uniform_00001_flow.flo
+	\PIV-genImages\data\uniform\uniform_00001_img1.tif
+	\PIV-genImages\data\uniform\uniform_00001_img2.tif
+	\PIV-genImages\data\uniform\uniform_00001_flow.flo
 
 
 ## Generating particle images
@@ -57,7 +57,7 @@ The dataset includes a variety of flow motions to increase the data diversity. S
 
 The descriptions of the motion fields for PIV neural network training are presented below:
 
-<div align=center><img width="450" src="https://github.com/shengzesnail/PIV_dataset/raw/master/demos/dataset.PNG"/></div>
+<div align=center><img width="450" src="https://github.com/shengzesnail/PIV_dataset/raw/master/demos/dataset.PNG"/></div>  
 
 
 **Here are some samples of flow motion we used in the PIV dataset:** 
@@ -67,9 +67,7 @@ The descriptions of the motion fields for PIV neural network training are presen
 ## Others
 
 You can also download the data from Baidu Cloud:   
-
-URL: [https://pan.baidu.com/s/1GVVENe3NN0h2QKbiqS3cJA](https://pan.baidu.com/s/1GVVENe3NN0h2QKbiqS3cJA)   
-
-Key code: fljs 
+>URL: [https://pan.baidu.com/s/1GVVENe3NN0h2QKbiqS3cJA](https://pan.baidu.com/s/1GVVENe3NN0h2QKbiqS3cJA)   
+>Key code: fljs 
 
 
