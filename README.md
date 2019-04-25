@@ -2,7 +2,7 @@
 
 ## License and citation
 
-The dataset in this repository is used to train a neural network performing **dense** particle image velocimetry. It is provided for research purposes only. All rights reserved for any commercial use. If you use this dataset, please cite the following paper:
+The dataset in this repository is used to train a neural network performing **dense** particle image velocimetry. It is provided for research purposes only. All rights reserved. Any commercial use requires our consent. If you use this dataset in your research work, please cite the following paper:
 
 [Dense motion estimation of particle images via a convolutional neural network, Exp Fluids, 2019](https://doi.org/10.1007/s00348-019-2717-2)
 
