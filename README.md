@@ -32,12 +32,10 @@ Each data item contains a particle image pair (input for CNN) and the correspond
 
 The intensity for each particle of the synthetic images is satisfied to a Gaussian function:
 
-$$
-I(x,y) = I_{0} \exp \left[ \frac{-(x-x_{0})^{2} - (y-y_{0})^{2}}{(1/8)d^{2}_{p}}  \right]
-$$ 
-
+<div align=center><img width="250" src="https://github.com/shengzesnail/PIV_dataset/raw/master/demos/Gaussian_fun.PNG"/></div>
 where $I_{0}$ is the peak intensity in the Gaussian center, $d_p$ denotes the particle diameter and $(x_0,y_0)$ the position of the particle. Let $\rho$ be the particle seeding density of the image. Each parameter is randomly selected in a proper range:
 
+---
 
 |Parameter       |Range                       | Unit                        |
 |----------------|----------------------------|-----------------------------|
@@ -72,4 +70,5 @@ The descriptions of the motion fields for PIV neural network training are presen
 You can also download the data from Baidu Cloud: 
 URL: [https://pan.baidu.com/s/1GVVENe3NN0h2QKbiqS3cJA](https://pan.baidu.com/s/1GVVENe3NN0h2QKbiqS3cJA) 
 Key code: fljs 
+
 
