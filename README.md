@@ -49,6 +49,7 @@ where $I_{0}$ is the peak intensity in the Gaussian center, $d_p$ denotes the pa
 |Location $(x_0,y_0)$| 1-256                  |pixel                        |
 
 
+All the images are in a resolution of 256 * 256 pixel. 
 **Here are some images with different parameters：**
 **a)** seeding density $\rho$ = 0.078 ppp, particle diameter $d_p$ = 1.31 pixel, **b)** $\rho$ = 0.051 ppp, $d_p$ = 3.68 pixel, **c)** $\rho$ = 0.069 ppp, $d_p$ = 2.81 pixel.
 
