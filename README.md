@@ -27,6 +27,11 @@ Each data item contains a particle image pair (input for CNN) and the correspond
 	\PIV-genImages\data\uniform\uniform_00001_img2.tif
 	\PIV-genImages\data\uniform\uniform_00001_flow.flo
 
+A train-validation split is also provided:
+
+	FlowData_train.list
+	FlowData_test.list
+
 
 ## Generating particle images
 
