@@ -77,4 +77,4 @@ You can also download the data from Baidu Cloud:
 >URL: [https://pan.baidu.com/s/1GVVENe3NN0h2QKbiqS3cJA](https://pan.baidu.com/s/1GVVENe3NN0h2QKbiqS3cJA)   
 >Key code: fljs 
 
-
+There are some Google Drive links for the data, which you can find in the Issues.
